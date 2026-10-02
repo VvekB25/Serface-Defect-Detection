@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+data/raw/
+data/processed/
+data/detection/
+runs/
+NEU-DET/
+models/*.keras
+models/*.h5
+models/*.weights.h5
+models/*.pt
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
